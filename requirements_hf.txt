@@ -1,0 +1,6 @@
+mesa>=3.0
+matplotlib
+networkx
+gradio
+numpy
+pandas

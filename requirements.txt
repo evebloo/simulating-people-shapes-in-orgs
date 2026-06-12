@@ -1,0 +1,7 @@
+mesa>=3.0
+matplotlib
+networkx
+pandas
+# For local SolaraViz dashboard (solara run app.py)
+solara
+altair
